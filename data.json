@@ -1,0 +1,320 @@
+[
+  {
+    "title": "apple",
+    "products": [
+      {
+        "id": 1,
+        "name": "iPhone 13",
+        "price": "18,590,000",
+        "imageUrl": "src/asset/apple/apple1.png"
+      },
+      {
+        "id": 2,
+        "name": "iPhone 13 256GB",
+        "price": "21,590,000",
+        "imageUrl": "src/asset/apple/apple2.png"
+      },
+      {
+        "id": 3,
+        "name": "iPhone 13 Pro Max",
+        "price": "24,590,000",
+        "imageUrl": "src/asset/apple/apple3.png"
+      },
+      {
+        "id": 4,
+        "name": "iPhone 13 Pro Max 256GB",
+        "price": "32,590,000",
+        "imageUrl": "src/asset/apple/apple4.png"
+      },
+      {
+        "id": 5,
+        "name": "iPhone 13 Plus",
+        "price": "20,590,000",
+        "imageUrl": "src/asset/apple/apple5.png"
+      },
+      {
+        "id": 6,
+        "name": "iPhone 12 Plus",
+        "price": "17,590,000",
+        "imageUrl": "src/asset/apple/apple6.png"
+      },
+      {
+        "id": 7,
+        "name": "iPhone 13 Plus",
+        "price": "10,990,000",
+        "imageUrl": "src/asset/apple/apple7.png"
+      },
+      {
+        "id": 37,
+        "name": "iPhone X Plus",
+        "price": "9,990,000",
+        "imageUrl": "src/asset/apple/apple8.png"
+      }
+    ]
+  },
+  {
+    "title": "samsung",
+    "products": [
+      {
+        "id": 8,
+        "name": "Samsung Galaxy S22 Ultra",
+        "price": "24,390,000",
+        "imageUrl": "src/asset/samsung/samsung3.png"
+      },
+      {
+        "id": 9,
+        "name": "Samsung Galaxy S22 Plus",
+        "price": "19,790,000",
+        "imageUrl": "src/asset/samsung/samsung2.png"
+      },
+      {
+        "id": 10,
+        "name": "Samsung Galaxy A03s",
+        "price": "2,890,000",
+        "imageUrl": "src/asset/samsung/samsung3.png"
+      },
+      {
+        "id": 11,
+        "name": " Samsung Galaxy Z Flip4",
+        "price": "21,990,000",
+        "imageUrl": "src/asset/samsung/samsung4.png"
+      },
+      {
+        "id": 12,
+        "name": "Samsung Galaxy S22 Ultra 256GB",
+        "price": "27,190,000",
+        "imageUrl": "src/asset/samsung/samsung5.png"
+      },
+      {
+        "id": 13,
+        "name": "Samsung Galaxy Z Flip3 5G",
+        "price": "16,090,000",
+        "imageUrl": "src/asset/samsung/samsung7.png"
+      },
+      {
+        "id": 14,
+        "name": "Samsung Galaxy S21 FE (5G)",
+        "price": "10,990,000",
+        "imageUrl": "src/asset/samsung/samsung7.png"
+      },
+      {
+        "id": 38,
+        "name": "Samsung Galaxy S21 (5G)",
+        "price": "8,990,000",
+        "imageUrl": "src/asset/samsung/samsung4.png"
+      }
+    ]
+  },
+  {
+    "title": "nokia",
+    "products": [
+      {
+        "id": 15,
+        "name": "Nokia C20 ",
+        "price": "1,890,000",
+        "imageUrl": "src/asset/nokia/nokia1.png"
+      },
+      {
+        "id": 16,
+        "name": "Nokia 105 4G",
+        "price": "720,000",
+        "imageUrl": "src/asset/nokia/nokia2.png"
+      },
+      {
+        "id": 17,
+        "name": "Nokia 8210 4G",
+        "price": "1,390,000",
+        "imageUrl": "src/asset/nokia/nokia3.png"
+      },
+      {
+        "id": 18,
+        "name": "Nokia G11 Plus 3GB/32GB",
+        "price": "3,390,000",
+        "imageUrl": "src/asset/nokia/nokia4.png"
+      },
+      {
+        "id": 19,
+        "name": "Nokia C21 Plus 3GB/32GB",
+        "price": "2,350,000",
+        "imageUrl": "src/asset/nokia/nokia5.png"
+      },
+      {
+        "id": 20,
+        "name": "Nokia G21- 4GB/128GB",
+        "price": "3,480,000",
+        "imageUrl": "src/asset/nokia/nokia6.png"
+      },
+      {
+        "id": 21,
+        "name": "Nokia 215 4G",
+        "price": "850,000",
+        "imageUrl": "src/asset/nokia/nokia7.png"
+      },
+      {
+        "id": 39,
+        "name": "Nokia 4G",
+        "price": "1,200,000",
+        "imageUrl": "src/asset/nokia/nokia8.png"
+      }
+    ]
+  },
+  {
+    "title": "xiaomi",
+    "products": [
+      {
+        "id": 22,
+        "name": "Xiaomi Redmi 10 2022",
+        "price": "4,290,000",
+        "imageUrl": "src/asset/xiaomi/xiaomi1.png"
+      },
+      {
+        "id": 23,
+        "name": "Xiaomi Redmi Note 10 Pro",
+        "price": "7,490,000",
+        "imageUrl": "src/asset/xiaomi/xiaomi2.png"
+      },
+      {
+        "id": 24,
+        "name": "Redmi Note 11S 8GB/128GB",
+        "price": "6,690,000",
+        "imageUrl": "src/asset/xiaomi/xiaomi3.png"
+      },
+      {
+        "id": 25,
+        "name": "Xiaomi 12 Pro",
+        "price": "27,990,000",
+        "imageUrl": "src/asset/xiaomi/xiaomi4.png"
+      },
+      {
+        "id": 26,
+        "name": "Xiaomi 11T Pro 5G - 12GB/256GB",
+        "price": "14,990,000",
+        "imageUrl": "src/asset/xiaomi/xiaomi5.png"
+      },
+      {
+        "id": 27,
+        "name": "Xiaomi 11 Lite 5G NE",
+        "price": "9,490,000",
+        "imageUrl": "src/asset/xiaomi/xiaomi6.png"
+      },
+      {
+        "id": 28,
+        "name": "Xiaomi 11T 5G - 8GB/128GB",
+        "price": "10,990,000",
+        "imageUrl": "src/asset/xiaomi/xiaomi7.png"
+      },
+      {
+        "id": 40,
+        "name": "Xiaomi 11T 5G",
+        "price": "4,990,000",
+        "imageUrl": "src/asset/xiaomi/xiaomi8.png"
+      }
+    ]
+  },
+  {
+    "title": "oppo",
+    "products": [
+      {
+        "id": 29,
+        "name": "OPPO Reno 6",
+        "price": "9,850,000",
+        "imageUrl": "src/asset/oppo/oppo1.png"
+      },
+      {
+        "id": 30,
+        "name": "OPPO Reno 5",
+        "price": "7,990,000",
+        "imageUrl": "src/asset/oppo/oppo3.png"
+      },
+      {
+        "id": 31,
+        "name": "OPPO Reno7",
+        "price": "10,990,000",
+        "imageUrl": "src/asset/oppo/oppo2.png"
+      },
+      {
+        "id": 32,
+        "name": "Reno 8 Z",
+        "price": "10,490,000",
+        "imageUrl": "src/asset/oppo/oppo4.png"
+      },
+      {
+        "id": 33,
+        "name": "Reno 8",
+        "price": "13,990,000",
+        "imageUrl": "src/asset/oppo/oppo5.png"
+      },
+      {
+        "id": 34,
+        "name": "Oppo A57 4GB/128G",
+        "price": "4,550,000",
+        "imageUrl": "src/asset/oppo/oppo6.png"
+      },
+      {
+        "id": 35,
+        "name": "OPPO A94",
+        "price": "5,550,000",
+        "imageUrl": "src/asset/oppo/oppo7.png"
+      },
+      {
+        "id": 36,
+        "name": "OPPO A24",
+        "price": "7,550,000",
+        "imageUrl": "src/asset/oppo/oppo8.png"
+      }
+    ]
+  },
+  {
+    "title": "realme",
+    "products": [
+      {
+        "id": 41,
+        "name": "Realme 8",
+        "price": "5,850,000",
+        "imageUrl": "src/asset/realme/realme1.png"
+      },
+      {
+        "id": 42,
+        "name": "Realme Reno 5",
+        "price": "7,990,000",
+        "imageUrl": "src/asset/realme/realme2.png"
+      },
+      {
+        "id": 43,
+        "name": "Realme Reno7",
+        "price": "10,990,000",
+        "imageUrl": "src/asset/realme/realme3.png"
+      },
+      {
+        "id": 44,
+        "name": "Realme 8 Z",
+        "price": "4,490,000",
+        "imageUrl": "src/asset/realme/realme4.png"
+      },
+      {
+        "id": 45,
+        "name": "Realme 8 plus",
+        "price": "13,990,000",
+        "imageUrl": "src/asset/realme/realme5.png"
+      },
+      {
+        "id": 46,
+        "name": "Realme A57 4GB/128G",
+        "price": "4,550,000",
+        "imageUrl": "src/asset/realme/realme6.png"
+      },
+      {
+        "id": 47,
+        "name": "Realme A4",
+        "price": "5,550,000",
+        "imageUrl": "src/asset/realme/realme7.png"
+      },
+      {
+        "id": 48,
+        "name": "Realme A94",
+        "price": "5,550,000",
+        "imageUrl": "src/asset/realme/realme8.png"
+      }
+    ]
+  }
+]
